@@ -1,0 +1,2 @@
+# mahjang
+hitori_mahjang
